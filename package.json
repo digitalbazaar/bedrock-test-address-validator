@@ -2,7 +2,7 @@
   "name": "bedrock-session-mongodb",
   "version": "0.1.2-dev",
   "description": "Bedrock session mongodb module",
-  "main": "index.js",
+  "main": "./lib/addressValidator",
   "scripts": {
     "test": "node index.js test"
   },
@@ -31,6 +31,5 @@
   },
   "directories": {
     "lib": "./lib"
-  },
-  "main": "./lib/addressValidator"
+  }
 }
