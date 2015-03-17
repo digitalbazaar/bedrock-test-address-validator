@@ -1,7 +1,7 @@
 {
-  "name": "bedrock-session-mongodb",
+  "name": "bedrock-test-address-validator",
   "version": "0.1.2-dev",
-  "description": "Bedrock session mongodb module",
+  "description": "Bedrock test address validator",
   "main": "./lib/addressValidator",
   "scripts": {
     "test": "node index.js test"
