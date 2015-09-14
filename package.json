@@ -23,8 +23,8 @@
   },
   "homepage": "https://github.com/digitalbazaar/bedrock-test-address-validator",
   "dependencies": {
-    "async": "~0.9.0",
-    "jsonld": "~0.3.22"
+    "async": "^1.4.0",
+    "jsonld": "~0.4.1"
   },
   "peerDependencies": {
     "bedrock": "^1.0.0"
